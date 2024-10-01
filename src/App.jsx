@@ -7,6 +7,7 @@ function App() {
   return (
     <>
      <h1>A blog app with AppWrite</h1>
+     <h2>gello</h2>
     </>
   )  
 }

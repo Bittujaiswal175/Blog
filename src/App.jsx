@@ -9,6 +9,7 @@ function App() {
      <h1>A blog app with AppWrite</h1>
      <h2>gello</h2>
      <h3></h3>
+     <h4>hello</h4>
     </>
   )  
 }
